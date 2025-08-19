@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mani+odim+Muhammadjon;Man+dim+kampiturlara+qiziqaman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=1000&pause=2000&color=F70000&background=89FF91&width=500&height=80&lines=Mani+odim+Muhammadjon;Man+kampiturlara+qiziqaman)](https://git.io/typing-svg)
 
 Hi boys/girls(ladies and gentlemen)
 
@@ -31,16 +31,8 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 </p
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=odamboy&show_icons=true&theme=tokyonight)
-
----
 
 ## 🌐 Connect with Me
 - 📧 Email: **mkingboitest@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com)
 - 🌍 [Portfolio](https://github.com/odamboy)
 
----
-
-✨ *Thanks for visiting my profile! Feel free to check out my projects.* ✨
