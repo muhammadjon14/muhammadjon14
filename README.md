@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=1000&pause=2000&color=F70000&background=89FF91&width=500&height=80&lines=Mani+odim+Muhammadjon;Man+kampiturlara+qiziqaman)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=1000&pause=2000&color=F70000&background=89FF91&center=true&vCenter=true&width=500&height=80&lines=Mani+odim+Muhammadjon;Man+kampiturlara+qiziqaman" alt="Typing SVG" /></a>
 Hi boys/girls(ladies and gentlemen)
 
 # Hi there, I'm Odamboy 👋
