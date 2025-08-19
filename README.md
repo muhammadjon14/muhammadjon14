@@ -16,16 +16,16 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,py,react" />
   </a>
 </p>
-
+##Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,windows,androidstudio,kali,godot,unity" />
   </a>
 </p
 ---
