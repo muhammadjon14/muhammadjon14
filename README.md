@@ -17,8 +17,8 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Game Dev:** Unity, C#
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 - **Tools:** Git, Linux, VS Code
 
 ---
