@@ -24,7 +24,11 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 </p>
 
 - **Tools:** Git, Linux, VS Code
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vs" />
+  </a>
+</p
 ---
 
 ## 📈 GitHub Stats
