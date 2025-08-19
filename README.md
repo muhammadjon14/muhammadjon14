@@ -26,7 +26,7 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,windows,androidstudio,kali,godot,unity" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,windows,androidstudio,kali,godot,unity,figma" />
   </a>
 </p
 ---
