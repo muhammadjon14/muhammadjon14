@@ -17,7 +17,11 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 ---
 
 ## 🛠 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,cs,py,react" />
+  </a>
+</p>
 
 - **Tools:** Git, Linux, VS Code
 
