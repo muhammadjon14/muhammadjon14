@@ -6,14 +6,14 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 
 ## 🛠 Languages
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,js,css,cs,py,react" />
   </a>
 </p>
 
 ## Tools
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=vscode,linux,windows,androidstudio,kali,godot,unity,figma" />
   </a>
 </p
