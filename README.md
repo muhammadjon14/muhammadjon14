@@ -11,6 +11,9 @@ I'm a **developer & learner** passionate about coding, game development, and bui
   </a>
 </p>
 
+I can really deliver what you want. I just need 2 things: Your trust and money.
+
+
 ## Tools
 <p align="center">
   <a>
@@ -20,9 +23,10 @@ I'm a **developer & learner** passionate about coding, game development, and bui
 ---
 
 
-## 🌐 Connect with Me
+I'm usually unactive so please take note of it.
 - 📧 Email: **mkingboitest@gmail.com**
-- 🌍 [Portfolio](https://github.com/odamboy)
+- Instagram: https://instagram.com/iskandarvx7
+- Telegram: https://t.me/@mkingboi
 
 <h6>
   GAYTAMJQGAYTAIBQGEYDCMJQGAYCAMBRGEYTAMBQGAQDAMJRGEYTAMBQEAYDCMJQGAYTAMJAGAYTCMBRGEYDCIBQGAYTCMBQGAYSAMBRGEYDCMJQGEQDAMJRGAYDAMBREAYDCMBQGEYDAMBAGAYTCMBRGAYTCIBQGAYTCMJRGAYQ====
